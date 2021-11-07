@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.anma.vultr</groupId>
-    <artifactId>vultr-demo</artifactId>
+    <artifactId>sb-demo</artifactId>
     <version>0.0.1</version>
     <name>vultr-demo</name>
     <description>Demo project for Spring Boot</description>
